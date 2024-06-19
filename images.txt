@@ -1,7 +1,9 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 ggoulart/cs1.6-server-more-maps:latest
-xhofe/alist:latest
+fnjn/cs1.6
+sebiglesisa/cs1.6-server
+sirpixel/cs1.3
+petrdocker1/cs1.6
+deadsik/cs1.6linuxserver
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
