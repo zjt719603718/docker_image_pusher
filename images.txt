@@ -6,4 +6,3 @@ sirpixel/cs1.3
 petrdocker1/cs1.6
 deadsik/cs1.6linuxserver
 #支持指定架构
-
