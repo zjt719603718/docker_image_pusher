@@ -1,6 +1,7 @@
 #支持私库
 ggoulart/cs1.6-server-more-maps:latest
 fnjn/cs1.6
+6053537/portainer-ce
 sebiglesisa/cs1.6-server
 sirpixel/cs1.3
 petrdocker1/cs1.6
