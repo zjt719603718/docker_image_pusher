@@ -7,5 +7,6 @@ sebigleisa/cs 1.6-服务器
 sirpixel/cs1.3
 petrdocker1/cs1.6
 Herbert he 0229/IPTV-来源
+herberthe0229/iptv-sources
 deadsik/cs1.6linuxserver
 #支持指定架构
