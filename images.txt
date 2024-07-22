@@ -1,10 +1,11 @@
 #支持私库
-ggoulart/cs1.6-server-more-maps:latest
+ggoulart/cs 1.6-服务器-更多-地图:最新
 fnjn/cs1.6
-6053537/portainer-ce
+6053537/便携箱-ce
 dockurr/windows
-sebiglesisa/cs1.6-server
+sebigleisa/cs 1.6-服务器
 sirpixel/cs1.3
 petrdocker1/cs1.6
+Herbert he 0229/IPTV-来源
 deadsik/cs1.6linuxserver
 #支持指定架构
