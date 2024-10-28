@@ -10,4 +10,5 @@ petrdocker1/cs1.6
 deadsik/cs1.6linuxserver
 cnk3x/xunlei
 Guovin/TV
+FFmpeg/FFmpeg
 #支持指定架构
